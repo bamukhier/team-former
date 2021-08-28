@@ -18,10 +18,11 @@ There are two methods to run this tool:
 
 ### Requirements for Method 2
 * Python 3.0+ & pip package manager.\
-In addition to these following Python packages:
+in addition to these following Python packages:
 * numpy.
 * eel.
-* func_timeout.\
+* func_timeout.
+
 to isntall them, run this in the command line for each package `pip install <package_name>`
 
 ### Method 2
