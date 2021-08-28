@@ -11,15 +11,15 @@ There are two methods to run this tool:
 * Click on `Assets`.
 * click on `team-former.exe` to download the executable.
 * Run the downloaded file on your local machine.
-*Note: your anti-virus software may complain about the software is not digitally signed, please ignore this message, or disable the anti-virus temporarily.
+*Note: your anti-virus software may complain about the software is not digitally signed, please ignore this message, or disable the anti-virus temporarily.*
 
 ### Method 2
 #### Requirements
-* Python 3.0+
+* Python 3.0+.
 In addition to these following Python packages:
-* numpy
-* eel
-* func_timeout
+* numpy.
+* eel.
+* func_timeout.
 to isntall them, run this in the command line for each package `pip install <package_name>`
 
 * clone this repository into your local machine.
