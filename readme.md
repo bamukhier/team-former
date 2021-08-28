@@ -34,7 +34,7 @@ to isntall them, run this in the command line for each package `pip install <pac
 ## License
 MIT License
 
-Copyright (c) 2021 Salem Bamukhier
+Copyright (c) 2021 Salem Bamukhier and Mohammed Iskandarani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
