@@ -7,23 +7,23 @@ This desktop tool utilizes a genetic algorithm (GA) to produce approximately opt
 There are two methods to run this tool:
 
 ### Method 1 (The Easiest)
-* Click on `releases' on the right sidebar of this repository.
+* Click on `releases` on the right sidebar of this repository.
 * Click on `Assets`.
 * click on `team-former.exe` to download the executable.
-* Run the downloaded file on your local machine.
+* Run the downloaded file on your local machine.\
 *Note: your anti-virus software may complain about the software is not digitally signed, please ignore this message, or disable the anti-virus temporarily.*
 
 ### Method 2
 #### Requirements
-* Python 3.0+.
+* Python 3.0+.\
 In addition to these following Python packages:
 * numpy.
 * eel.
-* func_timeout.
+* func_timeout.\
 to isntall them, run this in the command line for each package `pip install <package_name>`
 
 * clone this repository into your local machine.
-* install any missing libraries ( [See above requirements section](####Requirements))
+* install any missing libraries ( [See above requirements section](####-Requirements))
 * run `controller.py` script in the command line/terminal.
 
 ## License
