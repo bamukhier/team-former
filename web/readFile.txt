@@ -1,0 +1,14 @@
+    <pre id="output" hidden></pre>
+    <script type="text/javascript"> 
+        document.getElementById('myFile') 
+            .addEventListener('change', function() { 
+              
+            var fr=new FileReader(); 
+            fr.onload=function(){ 
+                document.getElementById('output') 
+                        .textContent=fr.result; 
+            } 
+              
+            fr.readAsText(this.files[0]); 
+        }) 
+    </script> 
